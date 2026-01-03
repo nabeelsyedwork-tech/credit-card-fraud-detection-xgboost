@@ -25,6 +25,16 @@ This project builds a **robust fraud classification pipeline** that:
 
 ---
 
+## Dataset Access
+
+Due to file size limitations, the credit card transactions dataset is not included in this repository.
+
+To reproduce the results:
+1. Download the dataset from Kaggle (Credit Card Fraud Detection dataset)
+2. Place the file in the project root as:
+
+---
+
 ## Problem Challenges
 
 - Extreme class imbalance
